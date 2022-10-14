@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Nobel laureates"
-author: "Zhekai Chen,TonyLouis Verberi,Sitong Zhang "
+author: "Sitong Zhang,Zhekai Chen,TonyLouis Verberi "
 date: "`r Sys.Date()`"
 output: html_document
 ---
