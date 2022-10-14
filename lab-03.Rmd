@@ -19,6 +19,7 @@ nobel <- read_csv("data/nobel.csv")
 ```
 
 ### Exercise 1
+969 Observations & 26 variables. Each row represents a nobel laureate and their details
 
 #### Narrative
 
